@@ -1,0 +1,27 @@
+_repo: The-Feather-Bed_59742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graves, Robert
+    aliases:
+    - Doyle, John
+    - Graves, Robert von Ranke
+    - Ranke-Graves, Robert von
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '628'
+    url: http://www.gutenberg.org/2009/agents/628
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Graves
+description: ''
+gutenberg_issued: '2019-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Feather Bed
+url: http://www.gutenberg.org/ebooks/59742
